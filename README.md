@@ -1,5 +1,7 @@
 # academic_succes_clasification
+Dataset Link : https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success
 DATA INFORMATION
+
 For what purpose was the dataset created?
 
 The dataset was created in a project that aims to contribute to the reduction of academic dropout and failure in higher education, by using machine learning techniques to identify students at risk at an early stage of their academic path, so that strategies to support them can be put into place. 
