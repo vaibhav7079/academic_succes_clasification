@@ -20,7 +20,7 @@ Each instance is a student
 
 Are there recommended data splits?
 
-The dataset was used, in our project, with a data split of 80% for training and 20% for test.
+The dataset was used, in our project, with a data split of 70% for training and 30% for test.
 
 Was there any data preprocessing performed?
 
